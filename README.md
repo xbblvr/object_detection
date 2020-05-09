@@ -39,10 +39,9 @@ Down load atom from https://atom.io/
 After installation, please import python packages:
 From atom menu:
 Packages->settings view->Install packages/Themes
-Then, please input:
+Search for the following package:
 
     autocomplete-python
 
 
-
-
+And install it.
