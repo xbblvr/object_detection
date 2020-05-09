@@ -21,7 +21,7 @@ In command line console, input the following command:
     activate ocv4
 
 
-2.3 Install cmake ,numpy, and opencv
+### 2.3 Install cmake ,numpy, and opencv
 In command line console, input the following command: 
 
     pip install cmake
