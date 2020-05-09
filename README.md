@@ -1,7 +1,7 @@
 # object_detection
 
 
-##  Software setup for Windows
+##  Software setup
 ## 1. Install Python and Anaconda
 
 Download Anaconda for windows
