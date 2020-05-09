@@ -1,6 +1,5 @@
 # object_detection
 
-
 ##  Software setup
 ## 1. Install Python and Anaconda
 
