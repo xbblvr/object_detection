@@ -1,7 +1,7 @@
 # object_detection
 
 
-#  Software setup for Windows
+##  Software setup for Windows
 ## 1. Install Python and Anaconda
 
 Download Anaconda for windows
@@ -10,7 +10,7 @@ https://www.anaconda.com/products/individual
 
 Attention: check ‘Add Anaconda to my PATH environment variable'
 
-# 2. Create virtual environment
+## 2. Create virtual environment
 ### 2.1 open 'Command Prompt'
 ### 2.2 Input commands are:
 
