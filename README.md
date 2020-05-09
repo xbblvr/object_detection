@@ -11,8 +11,6 @@ https://www.anaconda.com/products/individual
 Attention: check ‘Add Anaconda to my PATH environment variable'
 
 ## 2. Create virtual environment
-### 2.1 open 'Command Prompt'
-### 2.2 Input commands are:
 
 In command line console, input the following command: 
 
@@ -20,6 +18,11 @@ In command line console, input the following command:
     conda create --name ocv4 python=3.7
     activate ocv4
 
+on Ubuntu:
+
+    conda create --name ocv4 python=3.7
+    conda activate ocv4
+    
 
 ### 2.3 Install cmake ,numpy, and opencv
 In command line console, input the following command: 
@@ -38,7 +41,7 @@ From atom menu:
 Packages->settings view->Install packages/Themes
 Then, please input:
 
-    autocomplete -python
+    autocomplete-python
 
 
 
