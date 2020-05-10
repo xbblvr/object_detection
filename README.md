@@ -34,15 +34,7 @@ In command line console, input the following command:
 ## 3. Install a text editor or IDE (optional)
 You can use your own IDE for python. 
 
-Some IDEs 
-
-https://code.visualstudio.com/
-
-https://www.jetbrains.com/pycharm/
-
-https://www.pydev.org/
-
-https://atom.io/
+In this class, we will use atom. Donwload form  https://atom.io/
 
 For Atom, after installation, please import python packages:
 From atom menu:
@@ -52,6 +44,10 @@ Search for the following package:
     autocomplete-python
 
 And install it.
+
+
+Or MS Code, download from https://code.visualstudio.com/
+
 
 
 
