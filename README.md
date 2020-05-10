@@ -34,10 +34,14 @@ In command line console, input the following command:
 ## 3. Install a text editor or IDE (optional)
 You can use your own IDE for python. 
 
+Some IDEs 
 
 https://code.visualstudio.com/
+
 https://www.jetbrains.com/pycharm/
+
 https://www.pydev.org/
+
 https://atom.io/
 
 For Atom, after installation, please import python packages:
